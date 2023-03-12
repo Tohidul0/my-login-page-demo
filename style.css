@@ -1,0 +1,31 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    color: rgb(238, 157, 7);
+}
+.maje{
+    size: 100px 300px;
+    border: 3px  solid rgba(235, 9, 77, 0.945);
+    margin: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+#akil{
+    border: 10px solid green;
+    margin-left: 25%;
+    margin-right: 25% ;
+    margin-top: 10%;
+    padding: 80px 30px 80px 200px;
+    background-color: rgb(22, 41, 3);
+}
+input{
+    width: 300px;
+    height: 40px;
+}
+button{
+    width: 300px;
+    height: 40px;
+    background-color: darkslategray;
+}
